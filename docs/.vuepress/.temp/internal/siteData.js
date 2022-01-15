@@ -3,21 +3,7 @@ export const siteData = {
   "lang": "en-US",
   "title": "Hello dsds",
   "description": "Just playing around",
-  "head": [
-    [
-      "meta",
-      {
-        "name": "viewport",
-        "content": "width=device-width,initial-scale=1"
-      }
-    ],
-    [
-      "meta",
-      {
-        "charset": "utf-8"
-      }
-    ]
-  ],
+  "head": [],
   "locales": {}
 }
 
